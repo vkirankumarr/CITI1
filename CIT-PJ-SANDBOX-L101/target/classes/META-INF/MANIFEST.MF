@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CIT-CIT-PJ-SANDBOX-L101
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Kirankumar
+Implementation-Vendor-Id: com.citi
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CIT-PJ-SANDBOX-L101
+Created-By: Maven Integration for Eclipse
+
